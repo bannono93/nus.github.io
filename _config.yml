@@ -10,7 +10,7 @@ title: Let's go Kakao
 email:bannono93@naver.com
 description: 매일 1시간 이상 코드 공부합시다.
 baseurl: "/nsu.github.io" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site
+url: "https://github.com/bannono93/nus.github.io" # the base hostname & protocol for your site
 twitter_username: bannono93
 github_username:  bannono93
 
